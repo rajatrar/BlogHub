@@ -53,7 +53,4 @@ Appwrite serves as the backbone, streamlining backend operations and enhancing t
 
 BlogHub is accessible on [Demo Link](https://blog-hub-seven.vercel.app/), providing a convenient platform for users to experience the application.
 
-## 📞 Contact Information
 
-- **GitHub:** [ayushichoudhary-19](https://github.com/ayushichoudhary-19)
-- **LinkedIn:** [Ayushi Choudhary](https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/)
